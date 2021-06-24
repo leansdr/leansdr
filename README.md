@@ -6,7 +6,7 @@
 <li> 🤔 I’m looking for help with nothing for now.</li>
 </ul>
 
-<p>Sobre mim</p>
+<h2>Sobre mim</h2>
 
 <ul>
 <li>Sou bacharel em Ciência da Computação pela Universidade Nove de Julho - São Paulo.</li>
