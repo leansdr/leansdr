@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 💬 Amante da programação, encontrando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação. Pretendendo me aprofundar no desenvolvimento Web e mobie.
   
   Sobre mim
-  
-  <li><li>
+
+-
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
