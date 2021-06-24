@@ -6,7 +6,12 @@
 <li> 🤔 I’m looking for help with nothing for now.</li>
 </ul>
 
-Languages and Tools
+### Languages and Tools
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5" target="_blank"><img src="https://logonoid.com/images/thumbs/html5-logo.png"  alt="HTML5 Logo" </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://logonoid.com/images/thumbs/css3-logo.png"  alt="CSS3 Logo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://logonoid.com/images/thumbs/javascript-logo.png"  alt="JavaScript Logo" /></a>
+</div>
  
 <p>Sobre mim</p>
 
