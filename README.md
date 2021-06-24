@@ -13,7 +13,8 @@ Here are some ideas to get you started:
   
   Sobre mim
 
--
+- Sou bacharel em Ciência da Computação pela Universidade Nove de Julho - São Paulo.
+- Atualmente estou estudando Javascript/CSS/HTML juntamente com PHP.
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
