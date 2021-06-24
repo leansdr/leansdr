@@ -3,7 +3,6 @@
 <li>🔭 looking for an opportunity to work with Front-End</li> 
 <li> :blue_book: I’m currently learning HTML 5, CSS 3 and Javacript.</li>
 <li> 👯 I’m looking to collaborate on Front-end projects.</li>
-<li> 🤔 I’m looking for help with nothing for now.</li>
 </ul>
 
 <h2>Sobre mim</h2>
@@ -14,13 +13,13 @@
 <li>:point_right:Buscando colaborar com projetos em Front-end.</li>
 </ul>
 
-<h2>:mailbox:Contatos</h2>
+<h2>:mailbox: Contatos</h2>
 <div>
  <a href="https://www.linkedin.com/in/leansdr/" target="_blank"><img src="https://logonoid.com/images/thumbs/linkedin-logo.jpg" width=100  alt="LinkedIn Logo" /></a>
- <a href=":mailto:leansdr@gmail.com" target="_blank"><img src="https://logonoid.com/images/thumbs/gmail-logo.png" width=100  alt="Gmail Logo" /></a>
+ <a href="mailto:leansdr@gmail.com" target="_blank"><img src="https://logonoid.com/images/thumbs/gmail-logo.png" width=100  alt="Gmail Logo" /></a>
 </div>
 
-<h2>:computer:Languages and Tools</h2>
+<h2>:computer: Languages and Tools</h2>
 <div>
 <a href="https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5" target="_blank"><img src="https://logonoid.com/images/thumbs/html5-logo.png" width=40 alt="HTML5 Logo" </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://logonoid.com/images/thumbs/css3-logo.png" width=40  alt="CSS3 Logo" /></a>
