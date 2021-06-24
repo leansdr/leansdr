@@ -14,7 +14,11 @@
 <li>:point_right:Buscando colaborar com projetos em Front-end.</li>
 </ul>
 
-<p>📫 How to reach me: links below<p>
+<h2Contatos</h2>
+<div>
+ <a href="https://www.linkedin.com/in/leansdr/" target="_blank"><img src="https://logonoid.com/images/thumbs/linkedin-logo.jpg" width=40  alt="LinkedIn Logo" /></a>
+ <a href="https://logonoid.com/gmail-logo/" target="_blank"><img src="https://logonoid.com/images/thumbs/gmail-logo.png" width=40  alt="Gmail Logo" /></a>
+</div>
 
 <h2>Languages and Tools</h2>
 <div>
