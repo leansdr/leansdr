@@ -6,7 +6,7 @@
 <li> 🤔 I’m looking for help with nothing for now.</li>
 </ul>
  
-<p>Amante da programação, encontrando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação. Pretendendo me aprofundar no desenvolvimento Web e mobie.</p>
+<p>Amante da programação, encontrando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade através da programação. Pretendendo me aprofundar no desenvolvimento Web e mobie.</p>
 
 <p>Sobre mim</p>
 
