@@ -1,4 +1,4 @@
-<h1> Leandro Reis :grinning: 👋</h1>
+<h1> Hi 👋, I am Leandro :grinning:</h1>
 <ul>
 <li>🔭 looking for an opportunity to work with Front-End</li> 
 <li> :blue_book: I’m currently learning HTML 5, CSS 3 and Javacript.</li>
