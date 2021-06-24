@@ -6,15 +6,6 @@
 <li> 🤔 I’m looking for help with nothing for now.</li>
 </ul>
 
-### Languages and Tools
-<div>
-<a href="https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5" target="_blank"><img src="https://logonoid.com/images/thumbs/html5-logo.png" width=40 alt="HTML5 Logo" </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://logonoid.com/images/thumbs/css3-logo.png" width=40  alt="CSS3 Logo" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://logonoid.com/images/thumbs/javascript-logo.png" width=40  alt="JavaScript Logo" /></a>
- <a href="https://www.php.net/" target="_blank"><img src="https://logonoid.com/images/thumbs/php-logo.jpg" width=40 alt="PHP Logo" /></a>
- <a href="https://www.mysql.com/" target="_blank"><img src="https://logonoid.com/images/thumbs/mysql-logo.png" width=40  alt="MySQL Logo" /></a>
-</div>
- 
 <p>Sobre mim</p>
 
 <ul>
@@ -24,4 +15,14 @@
 </ul>
 
 <p>📫 How to reach me: links below<p>
+
+<h2>Languages and Tools</h2>
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5" target="_blank"><img src="https://logonoid.com/images/thumbs/html5-logo.png" width=40 alt="HTML5 Logo" </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://logonoid.com/images/thumbs/css3-logo.png" width=40  alt="CSS3 Logo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://logonoid.com/images/thumbs/javascript-logo.png" width=40  alt="JavaScript Logo" /></a>
+ <a href="https://www.php.net/" target="_blank"><img src="https://logonoid.com/images/thumbs/php-logo.jpg" width=40 alt="PHP Logo" /></a>
+ <a href="https://www.mysql.com/" target="_blank"><img src="https://logonoid.com/images/thumbs/mysql-logo.png" width=40  alt="MySQL Logo" /></a>
+</div>
+ 
 
