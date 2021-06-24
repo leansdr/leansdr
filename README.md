@@ -10,6 +10,8 @@
 
 - Sou bacharel em Ciência da Computação pela Universidade Nove de Julho - São Paulo.
 - Atualmente estou estudando Javascript/CSS/HTML juntamente com PHP.
+- :star:Treinando com alguns projetos em HMTL/CSS/Javascript/PHP.
+- :point_right:Buscando colaborar com projetos em Front-end.
 
 - 📫 How to reach me: links below
 
