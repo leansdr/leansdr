@@ -1,4 +1,4 @@
-### Leandro Reis :grinning: 👋
+<h1> Leandro Reis :grinning: 👋</h1>
 
 - 🔭 looking for an opportunity to work with Front-End
 - :blue_book: I’m currently learning HTML 5, CSS 3 and Javacript.
