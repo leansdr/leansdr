@@ -15,9 +15,10 @@
 </ul>
 
 <h2Contatos</h2>
+
 <div>
- <a href="https://www.linkedin.com/in/leansdr/" target="_blank"><img src="https://logonoid.com/images/thumbs/linkedin-logo.jpg" width=60  alt="LinkedIn Logo" /></a>
- <a href="https://logonoid.com/gmail-logo/" target="_blank"><img src="https://logonoid.com/images/thumbs/gmail-logo.png" width=60  alt="Gmail Logo" /></a>
+ <a href="https://www.linkedin.com/in/leansdr/" target="_blank"><img src="https://logonoid.com/images/thumbs/linkedin-logo.jpg" width=80  alt="LinkedIn Logo" /></a>
+ <a href="https://logonoid.com/gmail-logo/" target="_blank"><img src="https://logonoid.com/images/thumbs/gmail-logo.png" width=80  alt="Gmail Logo" /></a>
 </div>
 
 <h2>Languages and Tools</h2>
