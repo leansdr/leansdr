@@ -1,4 +1,4 @@
-<h1> Hi 👋, I am Leandro :grinning:</h1>
+<h1> Olá 👋, Seja bem vindo :grinning:</h1>
 <ul>
 <li>🔭  procurando oportunidades para trabalhar com desenvolvimento Front End</li> 
 <li> :blue_book: Atualmente estudando HTML 5, CSS 3 and Javacript.</li>
