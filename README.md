@@ -1,8 +1,8 @@
 <h1> Hi 👋, I am Leandro :grinning:</h1>
 <ul>
-<li>🔭 looking for an opportunity to work with Front-End</li> 
-<li> :blue_book: I’m currently learning HTML 5, CSS 3 and Javacript.</li>
-<li> 👯 I’m looking to collaborate on Front-end projects.</li>
+<li>🔭  procurando oportunidades para trabalhar com desenvolvimento Front End</li> 
+<li> :blue_book: Atualmente estudando HTML 5, CSS 3 and Javacript.</li>
+<li> 👯 Estou procurando colaborar com projetos front-end.</li>
 </ul>
 
 <h2>Sobre mim</h2>
