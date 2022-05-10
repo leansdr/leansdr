@@ -1,6 +1,4 @@
-## Bem-vindo(a) 😁
-
-<p>Olá, me chamo Leandro Reis e sou desenvolvedor front</p>
+## Bem-vindo(a)! Eu sou Leandro Reis 😁
 
  <div>
   <a href="https://github.com/leansdr">
@@ -12,7 +10,13 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+ 
+ <h3>Portfólio pessoal</h3>
+ <a href="https://flamboyant-shockley-b42839.netlify.app/" target="_blank">Clique Aqui</a> 
+ 
  
  <br>
  
