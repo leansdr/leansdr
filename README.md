@@ -1,11 +1,11 @@
-## Bem-vindo(a)! Eu sou Leandro Reis 😁
+## Bem-vindo(a)! Eu sou Leandro Reis :smirk:
 
  <div>
   <a href="https://github.com/leansdr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leansdr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leansdr&layout=compact&langs_count=6&theme=dracula"/>
 </div>
- <h3>Tecnologias e ferramentas</h3>
+ <h3>:computer: Tecnologias e ferramentas</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,8 +14,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
  
- <h3>Portfólio pessoal</h3>
- <a href="https://flamboyant-shockley-b42839.netlify.app/" target="_blank">Clique Aqui</a> 
+ 
+ <a href="https://flamboyant-shockley-b42839.netlify.app/" target="_blank"><h3>:muscle: Portfólio pessoal</h3></a> 
  
  
  <br>
